@@ -17,6 +17,9 @@ As the first project in openframework learning process, this project helps me to
 Reference
 =========
 https://www.youtube.com/watch?v=86iQiV3-3IA
+
 https://en.wikipedia.org/wiki/Boids
+
 https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html
+
 https://eater.net/boids
