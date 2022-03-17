@@ -11,5 +11,7 @@ If you want to browse the results of webscraper, please check the file named 'Ta
 Reference
 =========
 https://www.w3schools.com/python/default.asp
+
 https://beautiful-soup-4.readthedocs.io/en/latest/
+
 https://www.youtube.com/watch?v=XQgXKtPSzUI
